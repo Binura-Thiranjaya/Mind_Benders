@@ -9,6 +9,6 @@ package model;
  *
  * @author binurathiranjaya
  */
-public class allRegistrationShafwan {
+public class allRegistrationKavishka {
     
 }

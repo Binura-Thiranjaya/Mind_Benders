@@ -9,12 +9,12 @@ package view;
  *
  * @author binurathiranjaya
  */
-public class allRegistrationShafwan extends javax.swing.JFrame {
+public class allRegistrationKavishka extends javax.swing.JFrame {
 
     /**
      * Creates new form registrationShafwan
      */
-    public allRegistrationShafwan() {
+    public allRegistrationKavishka() {
         initComponents();
     }
 
@@ -60,21 +60,23 @@ public class allRegistrationShafwan extends javax.swing.JFrame {
                 }
             }
         } catch (ClassNotFoundException ex) {
-            java.util.logging.Logger.getLogger(allRegistrationShafwan.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(allRegistrationKavishka.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (InstantiationException ex) {
-            java.util.logging.Logger.getLogger(allRegistrationShafwan.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(allRegistrationKavishka.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (IllegalAccessException ex) {
-            java.util.logging.Logger.getLogger(allRegistrationShafwan.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(allRegistrationKavishka.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
-            java.util.logging.Logger.getLogger(allRegistrationShafwan.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(allRegistrationKavishka.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
+        //</editor-fold>
+        //</editor-fold>
         //</editor-fold>
         //</editor-fold>
 
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new allRegistrationShafwan().setVisible(true);
+                new allRegistrationKavishka().setVisible(true);
             }
         });
     }
